@@ -1,5 +1,5 @@
 # Blogging Platform API
-
+> Project URL: https://roadmap.sh/projects/blogging-platform-api
 A RESTful API for a personal blogging platform built with Node.js and Express, supporting full CRUD operations, query search, and input validation.
 
 ## 🚀 Features
